@@ -110,4 +110,3 @@ output.json
 .idea/
 __pycache__/
 info.log
-config.py
