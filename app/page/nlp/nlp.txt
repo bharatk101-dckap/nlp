@@ -1,0 +1,1137 @@
+ total cost of sales
+ total sales
+ total cost of sale
+ total revenue
+ total number of transactions
+ total sales of the unit
+ total turnover
+ total purchase
+ total quantity
+ total amount of sales
+ total order
+ gross sales
+ total sales amount
+ total turnover of business
+ total sales of transactions
+ total sales price
+ sales in cash by customers
+ sales of the customer
+ sales by type of customer
+ sales by order
+ sales price by customer
+ sales orders by customer
+ sales of a customer
+ sale by clients account name
+ customer sales reports
+ sales by business
+ sales by a customer
+ sales by customer name
+ sales by customer
+ sale by order
+ sales by customers
+ sales by account
+ sales by the buyer
+ sales by individual buyer
+ sales by customer type
+ sales by customer
+ sales by client
+ customer sales
+ sales by customers
+ the customers sales price
+ sales orders by customers
+ sales order by customer
+ customer orders
+ sale of customers
+ customer sales order
+ order by customer
+ sales by user
+ sales report by customer
+ sales by the customer
+ product sales
+ sales by products
+ sales transactions according to product
+ sales by product
+ sales of the product by category
+ sales of the products
+ sales in goods
+ sales of products
+ sale of products
+ sales price by product
+ sales by product
+ sales by means of the product
+ sale of goods
+ sales by product category
+ sales by individual products
+ sales by products
+ prices for sales
+ sales by item
+ sales price by the product
+ sales by product group
+ sales price last month
+ sales records last month
+ sales last month
+ how sale last month
+ last month sales
+ last month turnover
+ last month of sale
+ last month sale
+ sales last week
+ monthly sales
+ sales report last month
+ sales last month
+ sales for months
+ sales on a monthly basis
+ sales in last month
+ sales last month
+ sales for the last month
+ sales in month
+ sales in a month
+ sales of this month
+ sale last month
+ sales by month
+ sales for the month
+ sales of the month
+ sales in a month
+ sales for a month
+ sales last week
+ sales report last week
+ sales price last week
+ sales of the last week
+ sale price last week
+ sales in the last week
+ sales for the last week
+ sales in last week
+ sales for last week
+ sale last week
+ sales last week
+ sales from last week
+  sales yesterday
+  sales today
+  sales last june
+  sales last july
+  sales last august
+  sales last september
+  sales last october
+  sales last november
+  sales last devember
+  sales last january
+  sales last february
+  sales last march
+  sales last april
+  sales last may
+  sales daily
+  daily sales
+  sales monthly
+  sales by year
+  sales by month
+  last year sales
+  last month sales
+  sales this month
+  sales previous month
+  sales previous year
+  sales previous day
+  sales previous week
+  sales by location
+  sales by state
+  average sales by month
+  average sales monthly
+  average sales last year
+  maximum revenue
+  maximum sales by customer
+  maximum sales by product
+  maximum sales by location
+  maximum sales by state
+  maximum sales last year
+  maximum sales by month
+  maximum sales monthly
+  maximum sales last year
+  maximum revenue
+  maximum sales by customer
+  maximum sales by product
+  maximum sales by location
+  maximum sales by state
+  maximum sales last year
+  average sales
+  maximum sales
+  minimum sales
+  weekly sales
+  monthly sales
+  daily sales
+  sales by hour
+  sales last month by customer
+  sales last month by product
+  sales last month by location
+  sales last month by state
+  sales last 2 months 
+  sales last 3 months 
+  sales last 4 months 
+  sales last 5 months
+  sales last 6 months 
+  sales last 7 months 
+  sales last 8 months 
+  sales last 9 months 
+  sales last 10 months 
+  sales last 11 months 
+  sales last 12 months 
+  sales last 2 days 
+  sales last 3 days 
+  sales last 4 days 
+  sales last 5 days 
+  sales last 6 days 
+  sales last 7 days 
+  sales last 2 months by customer
+  sales last 3 months by customer
+  sales last 4 months by customer
+  sales last 5 months by customer
+  sales last 6 months by customer
+  sales last 7 months by customer
+  sales last 8 months by customer
+  sales last 9 months by customer
+  sales last 10 months by customer
+  sales last 11 months by customer
+  sales last 12 months by customer
+  sales last year
+  sales last 2 years 
+  sales last 3 years
+  sales last 4 years
+  sales last 5 years
+  sales last year by customer
+  sales last 2 years by customer
+  sales last 3 years by customer
+  sales last 4 years by customer
+  sales last 5 years by customer
+  sales last 2 months by product
+  sales last 3 months by product
+  sales last 4 months by product
+  sales last 5 months by product
+  sales last 6 months by product
+  sales last 7 months by product
+  sales last 8 months by product
+  sales last 9 months by product
+  sales last 10 months by product
+  sales last 11 months by product
+  sales last 12 months by product
+  sales last year by product
+  sales last 2 years by product
+  sales last 3 years by product
+  sales last 4 years by product
+  sales last 5 years by product
+  sales last 2 days by product
+  sales last 3 days by product
+  sales last 4 days by product
+  sales last 5 days by product
+  sales last 6 days by product
+  sales last 7 days by product
+  sales last 2 days by customer
+  sales last 3 days by customer
+  sales last 4 days by customer
+  sales last 5 days by customer
+  sales last 6 days by customer
+  sales last 7 days by customer
+  sales last 2 years by location
+  sales last 3 years by location
+  sales last 4 years by location
+  sales last 5 years by location
+  sales last 2 months by location
+  sales last 3 months by location
+  sales last 4 months by location
+  sales last 5 months by location
+  sales last 6 months by location
+  sales last 7 months by location
+  sales last 8 months by location
+  sales last 9 months by location
+  sales last 10 months by location
+  sales last 11 months by location
+  sales last 12 months by location
+  sales last year by location
+  sales last 2 years by location
+  sales last 3 years by location
+  sales last 4 years by location
+  sales last 5 years by location
+  sales last 2 days by location
+  sales last 3 days by location
+  sales last 4 days by location
+  sales last 5 days by location
+  sales last 6 days by location
+  sales last 7 days by location
+  sales last 2 years by state
+  sales last 3 years by state
+  sales last 4 years by state
+  sales last 5 years by state
+  sales last 2 months by state
+  sales last 3 months by state
+  sales last 4 months by state
+  sales last 5 months by state
+  sales last 6 months by state
+  sales last 7 months by state
+  sales last 8 months by state
+  sales last 9 months by state
+  sales last 10 months by state
+  sales last 11 months by state
+  sales last 12 months by state
+  sales last year by state
+  sales last 2 years by state
+  sales last 3 years by state
+  sales last 4 years by state
+  sales last 5 years by state
+  sales last 2 days by state
+  sales last 3 days by state
+  sales last 4 days by state
+  sales last 5 days by state
+  sales last 6 days by state
+  sales last 7 days by state
+  sales by customer by product by location by state
+  sales by product by location by state
+  sales by location by state
+  sales by customer by product
+  sales by product by location
+  sales by customer by location
+  sales by product by customer by location by state
+  sales by product by customer by location
+  sales by location by product by customer
+  sales by state by product by customer  
+  sales by location by customer by product by state
+  sales by location by customer by product
+  sales by state by customer by product by location
+  sales by state by customer
+  sales by state by product
+  sales by customer by product by location by state last month
+  sales by product by location by state last month
+  sales by location by state last month
+  sales by customer by product last month
+  sales by product by location last month
+  sales by customer by location last month
+  sales by product by customer by location by state last month
+  sales by product by customer by location last month
+  sales by location by product by customer last month
+  sales by state by product by customer last month
+  sales by location by customer by product by state last month
+  sales by location by customer by product last month
+  sales by state by customer by product by location last month
+  sales by state by customer last month
+  sales by state by product last month
+  sales by customer last month
+  sales by product last month
+  sales by location last month
+  sales by state last month
+  sales last month by customer by product by location by state
+  sales last month by product by location by state
+  sales last month by location by state
+  sales last month by customer by product
+  sales last month by product by location
+  sales last month by customer by location
+  sales last month by product by customer by location by state
+  sales last month by product by customer by location
+  sales last month by location by product by customer
+  sales last month by state by product by customer  
+  sales last month by location by customer by product by state
+  sales last month by location by customer by product
+  sales last month by state by customer by product by location
+  sales last month by state by customer
+  sales last month by state by product
+  sales by customer by product by location by state last year
+  sales by product by location by state last year
+  sales by location by state last year
+  sales by customer by product last year
+  sales by product by location last year
+  sales by customer by location last year
+  sales by product by customer by location by state last year
+  sales by product by customer by location last year
+  sales by location by product by customer last year
+  sales by state by product by customer last year
+  sales by location by customer by product by state last year
+  sales by location by customer by product last year
+  sales by state by customer by product by location last year
+  sales by state by customer last year
+  sales by state by product last year
+  sales by customer last year
+  sales by product last year
+  sales by location last year
+  sales by state last year
+  sales last year by customer by product by location by state
+  sales last year by product by location by state
+  sales last year by location by state
+  sales last year by customer by product
+  sales last year by product by location
+  sales last year by customer by location
+  sales last year by product by customer by location by state
+  sales last year by product by customer by location
+  sales last year by location by product by customer
+  sales last year by state by product by customer  
+  sales last year by location by customer by product by state
+  sales last year by location by customer by product
+  sales last year by state by customer by product by location
+  sales last year by state by customer
+  sales last year by state by product
+  sales by customer last week
+  sales by product last week
+  sales by location last week
+  sales by state last week
+  sale last week by customer
+  sale last week by product
+  sale last week by location
+  sale last week by state
+  sale last year by customer
+  sale last year by product
+  sale last year by location
+  sale last year by state
+  sales by year by month by day by hour
+  sales by hour
+  sales by day
+  sales by year by month 
+  sales by day by hour
+  sales by customer last 2 months 
+  sales by customer last 3 months 
+  sales by customer last 4 months 
+  sales by customer last 5 months 
+  sales by customer last 6 months 
+  sales by customer last 7 months 
+  sales by customer last 8 months 
+  sales by customer last 9 months 
+  sales by customer last 10 months 
+  sales by customer last 11 months 
+  sales by customer last 12 months 
+  sales last year by customer
+  sales by customer last 2 years
+  sales by customer last 3 years 
+  sales by customer last 4 years 
+  sales by customer last 5 years 
+  sales by product last 2 months 
+  sales last by product 3 months 
+  sales last by product 4 months 
+  sales last by product 5 months 
+  sales last by product 6 months 
+  sales last by product 7 months 
+  sales last by product 8 months 
+  sales last by product 9 months 
+  sales last by product 10 months 
+  sales last by product 11 months 
+  sales last by product 12 months 
+  sales by product last year 
+  sales by product last 2 years 
+  sales by product last 3 years 
+  sales by product last 4 years 
+  sales by product last 5 years 
+  sales by product last 2 days 
+  sales by product last 3 days 
+  sales by product last 4 days 
+  sales by product last 5 days 
+  sales by product last 6 days 
+  sales by product last 7 days 
+  sales by customer last 2 days 
+  sales by customer last 3 days 
+  sales by customer last 4 days 
+  sales by customer last 5 days 
+  sales by customer last 6 days 
+  sales by customer last 7 days 
+  sales by location last 2 years 
+  sales by location last 3 years 
+  sales by location last 4 years 
+  sales by location last 5 years 
+  sales by location last 2 months 
+  sales by location last 3 months 
+  sales by location last 4 months 
+  sales by location last 5 months 
+  sales by location last 6 months 
+  sales by location last 7 months 
+  sales by location last 8 months 
+  sales by location last 9 months 
+  sales by location last 10 months 
+  sales by location last 11 months 
+  sales by location last 12 months 
+  sales by location last year 
+  sales by location last 2 years 
+  sales by location last 3 years 
+  sales by location last 4 years 
+  sales by location last 5 years 
+  sales by location last 2 days 
+  sales by location last 3 days 
+  sales by location last 4 days 
+  sales by location last 5 days 
+  sales by location last 6 days 
+  sales by location last 7 days 
+  sales by state last 2 years 
+  sales by state last 3 years 
+  sales by state last 4 years 
+  sales by state last 5 years 
+  sales by state last 2 months 
+  sales by state last 3 months 
+  sales by state last 4 months 
+  sales by state last 5 months 
+  sales by state last 6 months 
+  sales by state last 7 months 
+  sales by state last 8 months 
+  sales by state last 9 months 
+  sales by state last 10 months 
+  sales by state last 11 months 
+  sales by state last 12 months 
+  sales by state last year 
+  sales last by state 2 years 
+  sales by state last 3 years 
+  sales by state last 4 years 
+  sales by state last 5 years 
+  sales by state last 2 days 
+  sales by state last 3 days 
+  sales by state last 4 days 
+  sales by state last 5 days 
+  sales by state last 6 days 
+  sales by state last 7 days 
+  sales by customer by year
+  sales by customer by month
+  sales by customer by week
+  sales by customer by day
+  sales by product by year
+  sales by product by month
+  sales by product by week
+  sales by product by day
+  sales by location by year
+  sales by location by month
+  sales by location by week
+  sales by state by day
+  sales by state by year
+  sales by state by month
+  sales by state by week
+  sales by state by day
+  sales
+  sales by customer today
+  sales by customer yesterday
+  sales by product today
+  sales by product yesterday
+  sales by location by today
+  sales by location by yesterday
+  sales by state by today
+  sales by state by yesterday
+ total orders
+ total cost of sale
+ total revenue
+ total number of transactions
+ total orders of the unit
+ total turnover
+ total purchase
+ total quantity
+ total amount of orders
+ total order
+ gross orders
+ total turnover of business
+ total orders of transactions
+ orders of the customer
+ sale by clients account name
+ orders by business
+ orders by a customer
+ orders by customer name
+ orders by customer
+ orders by customers
+ orders by the buyer
+ orders by individual buyer
+ orders by customer type
+ orders by customer
+ orders by client
+ customer orders
+ orders of customers
+ customer orders
+ sale of customers
+ customer orders order
+ order by customer
+ orders by user
+ orders report by customer
+ orders by the customer
+ product orders
+ orders by products
+ orders transactions according to product
+ orders by product
+ sale of products
+ orders by product
+ orders by means of the product
+ sale of goods
+ orders by product category
+ orders by individual products
+ orders by products
+ orders price by the product
+ orders by product group
+ orders records last month
+ orders last month
+ how sale last month
+ last month orders
+ last month turnover
+ last month of sale
+ last month sale
+ orders last week
+ monthly orders
+ orders report last month
+ orders last month
+ orders for months
+ orders on a monthly basis
+ orders in last month
+ orders last month
+ orders for the last month
+ orders in month
+ orders in a month
+ orders of this month
+ sale last month
+ orders by month
+ orders for the month
+ orders of the month
+ orders in a month
+ orders for a month
+ orders last week
+ orders report last week
+ orders of the last week
+ sale price last week
+ orders in the last week
+ orders for the last week
+ orders in last week
+ orders for last week
+ sale last week
+ orders last week
+ orders from last week
+  orders yesterday
+  orders today
+  orders last june
+  orders last july
+  orders last august
+  orders last september
+  orders last october
+  orders last november
+  orders last devember
+  orders last january
+  orders last february
+  orders last march
+  orders last april
+  orders last may
+  orders daily
+  daily orders
+  orders monthly
+  orders by year
+  orders by month
+  last year orders
+  last month orders
+  orders this month
+  orders previous month
+  orders previous year
+  orders previous day
+  orders previous week
+  orders by location
+  orders by state
+  average orders by month
+  average orders monthly
+  average orders last year
+  maximum revenue
+  maximum orders by customer
+  maximum orders by product
+  maximum orders by location
+  maximum orders by state
+  maximum orders last year
+  maximum orders by month
+  maximum orders monthly
+  maximum orders last year
+  maximum revenue
+  maximum orders by customer
+  maximum orders by product
+  maximum orders by location
+  maximum orders by state
+  maximum orders last year
+  average orders
+  maximum orders
+  minimum orders
+  weekly orders
+  monthly orders
+  daily orders
+  orders by hour
+  orders last month by customer
+  orders last month by product
+  orders last month by location
+  orders last month by state
+  orders last 2 months 
+  orders last 3 months 
+  orders last 4 months 
+  orders last 5 months
+  orders last 6 months 
+  orders last 7 months 
+  orders last 8 months 
+  orders last 9 months 
+  orders last 10 months 
+  orders last 11 months 
+  orders last 12 months 
+  orders last 2 days 
+  orders last 3 days 
+  orders last 4 days 
+  orders last 5 days 
+  orders last 6 days 
+  orders last 7 days 
+  orders last 2 months by customer
+  orders last 3 months by customer
+  orders last 4 months by customer
+  orders last 5 months by customer
+  orders last 6 months by customer
+  orders last 7 months by customer
+  orders last 8 months by customer
+  orders last 9 months by customer
+  orders last 10 months by customer
+  orders last 11 months by customer
+  orders last 12 months by customer
+  orders last year
+  orders last 2 years 
+  orders last 3 years
+  orders last 4 years
+  orders last 5 years
+  orders last year by customer
+  orders last 2 years by customer
+  orders last 3 years by customer
+  orders last 4 years by customer
+  orders last 5 years by customer
+  orders last 2 months by product
+  orders last 3 months by product
+  orders last 4 months by product
+  orders last 5 months by product
+  orders last 6 months by product
+  orders last 7 months by product
+  orders last 8 months by product
+  orders last 9 months by product
+  orders last 10 months by product
+  orders last 11 months by product
+  orders last 12 months by product
+  orders last year by product
+  orders last 2 years by product
+  orders last 3 years by product
+  orders last 4 years by product
+  orders last 5 years by product
+  orders last 2 days by product
+  orders last 3 days by product
+  orders last 4 days by product
+  orders last 5 days by product
+  orders last 6 days by product
+  orders last 7 days by product
+  orders last 2 days by customer
+  orders last 3 days by customer
+  orders last 4 days by customer
+  orders last 5 days by customer
+  orders last 6 days by customer
+  orders last 7 days by customer
+  orders last 2 years by location
+  orders last 3 years by location
+  orders last 4 years by location
+  orders last 5 years by location
+  orders last 2 months by location
+  orders last 3 months by location
+  orders last 4 months by location
+  orders last 5 months by location
+  orders last 6 months by location
+  orders last 7 months by location
+  orders last 8 months by location
+  orders last 9 months by location
+  orders last 10 months by location
+  orders last 11 months by location
+  orders last 12 months by location
+  orders last year by location
+  orders last 2 years by location
+  orders last 3 years by location
+  orders last 4 years by location
+  orders last 5 years by location
+  orders last 2 days by location
+  orders last 3 days by location
+  orders last 4 days by location
+  orders last 5 days by location
+  orders last 6 days by location
+  orders last 7 days by location
+  orders last 2 years by state
+  orders last 3 years by state
+  orders last 4 years by state
+  orders last 5 years by state
+  orders last 2 months by state
+  orders last 3 months by state
+  orders last 4 months by state
+  orders last 5 months by state
+  orders last 6 months by state
+  orders last 7 months by state
+  orders last 8 months by state
+  orders last 9 months by state
+  orders last 10 months by state
+  orders last 11 months by state
+  orders last 12 months by state
+  orders last year by state
+  orders last 2 years by state
+  orders last 3 years by state
+  orders last 4 years by state
+  orders last 5 years by state
+  orders last 2 days by state
+  orders last 3 days by state
+  orders last 4 days by state
+  orders last 5 days by state
+  orders last 6 days by state
+  orders last 7 days by state
+  orders by customer by product by location by state
+  orders by product by location by state
+  orders by location by state
+  orders by customer by product
+  orders by product by location
+  orders by customer by location
+  orders by product by customer by location by state
+  orders by product by customer by location
+  orders by location by product by customer
+  orders by state by product by customer  
+  orders by location by customer by product by state
+  orders by location by customer by product
+  orders by state by customer by product by location
+  orders by state by customer
+  orders by state by product
+  orders by customer by product by location by state last month
+  orders by product by location by state last month
+  orders by location by state last month
+  orders by customer by product last month
+  orders by product by location last month
+  orders by customer by location last month
+  orders by product by customer by location by state last month
+  orders by product by customer by location last month
+  orders by location by product by customer last month
+  orders by state by product by customer last month
+  orders by location by customer by product by state last month
+  orders by location by customer by product last month
+  orders by state by customer by product by location last month
+  orders by state by customer last month
+  orders by state by product last month
+  orders by customer last month
+  orders by product last month
+  orders by location last month
+  orders by state last month
+  orders last month by customer by product by location by state
+  orders last month by product by location by state
+  orders last month by location by state
+  orders last month by customer by product
+  orders last month by product by location
+  orders last month by customer by location
+  orders last month by product by customer by location by state
+  orders last month by product by customer by location
+  orders last month by location by product by customer
+  orders last month by state by product by customer  
+  orders last month by location by customer by product by state
+  orders last month by location by customer by product
+  orders last month by state by customer by product by location
+  orders last month by state by customer
+  orders last month by state by product
+  orders by customer by product by location by state last year
+  orders by product by location by state last year
+  orders by location by state last year
+  orders by customer by product last year
+  orders by product by location last year
+  orders by customer by location last year
+  orders by product by customer by location by state last year
+  orders by product by customer by location last year
+  orders by location by product by customer last year
+  orders by state by product by customer last year
+  orders by location by customer by product by state last year
+  orders by location by customer by product last year
+  orders by state by customer by product by location last year
+  orders by state by customer last year
+  orders by state by product last year
+  orders by customer last year
+  orders by product last year
+  orders by location last year
+  orders by state last year
+  orders last year by customer by product by location by state
+  orders last year by product by location by state
+  orders last year by location by state
+  orders last year by customer by product
+  orders last year by product by location
+  orders last year by customer by location
+  orders last year by product by customer by location by state
+  orders last year by product by customer by location
+  orders last year by location by product by customer
+  orders last year by state by product by customer  
+  orders last year by location by customer by product by state
+  orders last year by location by customer by product
+  orders last year by state by customer by product by location
+  orders last year by state by customer
+  orders last year by state by product
+  orders by customer last week
+  orders by product last week
+  orders by location last week
+  orders by state last week
+  orders last week by customer
+  orders last week by product
+  orders last week by location
+  orders last week by state
+  orders last year by customer
+  orders last year by product
+  orders last year by location
+  orders last year by state
+  orders by year by month by day by hour
+  orders by hour
+  orders by day
+  orders by year by month 
+  orders by day by hour
+  orders by customer last 2 months 
+  orders by customer last 3 months 
+  orders by customer last 4 months 
+  orders by customer last 5 months 
+  orders by customer last 6 months 
+  orders by customer last 7 months 
+  orders by customer last 8 months 
+  orders by customer last 9 months 
+  orders by customer last 10 months 
+  orders by customer last 11 months 
+  orders by customer last 12 months 
+  orders last year by customer
+  orders by customer last 2 years
+  orders by customer last 3 years 
+  orders by customer last 4 years 
+  orders by customer last 5 years 
+  orders by product last 2 months 
+  orders last by product 3 months 
+  orders by product last 4 months 
+  orders by product last 5 months 
+  orders by product last 6 months 
+  orders by product last 7 months 
+  orders by product last 8 months 
+  orders by product last 9 months 
+  orders by product last 10 months 
+  orders by product last 11 months 
+  orders by product last 12 months 
+  orders by product last year 
+  orders by product last 2 years 
+  orders by product last 3 years 
+  orders by product last 4 years 
+  orders by product last 5 years 
+  orders by product last 2 days 
+  orders by product last 3 days 
+  orders by product last 4 days 
+  orders by product last 5 days 
+  orders by product last 6 days 
+  orders by product last 7 days 
+  orders by customer last 2 days 
+  orders by customer last 3 days 
+  orders by customer last 4 days 
+  orders by customer last 5 days 
+  orders by customer last 6 days 
+  orders by customer last 7 days 
+  orders by location last 2 years 
+  orders by location last 3 years 
+  orders by location last 4 years 
+  orders by location last 5 years 
+  orders by location last 2 months 
+  orders by location last 3 months 
+  orders by location last 4 months 
+  orders by location last 5 months 
+  orders by location last 6 months 
+  orders by location last 7 months 
+  orders by location last 8 months 
+  orders by location last 9 months 
+  orders by location last 10 months 
+  orders by location last 11 months 
+  orders by location last 12 months 
+  orders by location last year 
+  orders by location last 2 years 
+  orders by location last 3 years 
+  orders by location last 4 years 
+  orders by location last 5 years 
+  orders by location last 2 days 
+  orders by location last 3 days 
+  orders by location last 4 days 
+  orders by location last 5 days 
+  orders by location last 6 days 
+  orders by location last 7 days 
+  orders by state last 2 years 
+  orders by state last 3 years 
+  orders by state last 4 years 
+  orders by state last 5 years 
+  orders by state last 2 months 
+  orders by state last 3 months 
+  orders by state last 4 months 
+  orders by state last 5 months 
+  orders by state last 6 months 
+  orders by state last 7 months 
+  orders by state last 8 months 
+  orders by state last 9 months 
+  orders by state last 10 months 
+  orders by state last 11 months 
+  orders by state last 12 months 
+  orders by state last year 
+  orders last by state 2 years 
+  orders by state last 3 years 
+  orders by state last 4 years 
+  orders by state last 5 years 
+  orders by state last 2 days 
+  orders by state last 3 days 
+  orders by state last 4 days 
+  orders by state last 5 days 
+  orders by state last 6 days 
+  orders by state last 7 days 
+  orders by customer by year
+  orders by customer by month
+  orders by customer by week
+  orders by customer by day
+  orders by product by year
+  orders by product by month
+  orders by product by week
+  orders by product by day
+  orders by location by year
+  orders by location by month
+  orders by location by week
+  orders by state by day
+  orders by state by year
+  orders by state by month
+  orders by state by week
+  orders by state by day
+  orders
+  orders by customer today
+  orders by customer yesterday
+  orders by product today
+  orders by product yesterday
+  orders by location by today
+  orders by location by yesterday
+  orders by state by today
+  orders by state by yesterday
+  predicted sales
+  forecasted sales
+  expected sales
+  sales forecasting
+  predicted sales next month
+  forecasted sales next month
+  expected sales next month
+  sales forecasting next month
+  predicted sales next 2 months
+  forecasted sales next 2 months
+  expected sales next 2 months
+  sales forecasting next 2 months
+  predicted sales next 3 months
+  forecasted sales next 3 months
+  expected sales next 3 months
+  sales forecasting next 3 months
+  predicted sales next week
+  forecasted sales next week
+  expected sales next week
+  sales forecasting next week
+  predicted sales tomorrow
+  forecasted sales tomorrow
+  expected sales tomorrow
+  sales forecasting tomorrow
+  predicted sales today
+  forecasted sales today
+  expected sales today
+  sales forecasting today
+  predicted churn
+  forecasted churn
+  expected churn
+  churn forecasting
+  predicted churn next month
+  forecasted churn next month
+  expected churn next month
+  churn forecasting next month
+  predicted churn next 2 months
+  forecasted churn next 2 months
+  expected churn next 2 months
+  churn forecasting next 2 months
+  predicted churn next 3 months
+  forecasted churn next 3 months
+  expected churn next 3 months
+  churn forecasting next 3 months
+  predicted churn next week
+  forecasted churn next week
+  expected churn next week
+  churn forecasting next week
+  predicted churn tomorrow
+  forecasted churn tomorrow
+  expected churn tomorrow
+  churn forecasting tomorrow
+  predicted churn today
+  forecasted churn today
+  expected churn today
+  churn forecasting today
+  customers
+  total customers
+  customers by orders
+  top 10 best customers
+  top 5 best customers
+  top 10 customers
+  top 5 customers
+  top 5 customers in Platinum category
+  top 5 customers in Gold category
+  top 5 customers in Silver category
+  top 5 customers in Bronze category
+  top 10 customers in Platinum category 
+  top 10 customers in Gold category
+  top 10 customers in Silver category
+  top 10 customers in Bronze category
+  customers in Platinum category
+  customers in Gold category
+  customers in Silver category
+  customers in Bronze category
+  customers in Platinum High Spending-Loyal Customer category
+  customers in Platinum High Spending-Potential Loyalist category
+  customers in Platinum Low Spending-Loyal Customer category
+  customers in Gold High Spending-New Customer category
+  customers in Gold High Spending-Promising Customer category
+  customers in Gold Low Spending-New Customer category
+  customers in Gold Low Spending-Potential Loyalist category
+  customers in Silver High Spent-Attention Seekers category
+  customers in Silver High Spent-Likely to Churn category
+  customers in Silver Low Spending Promising Customer category
+  customers in Silver Low Spent-Attention Seeker category
+  customers in Silver Low Spent-Likely to Churn category
+  customers in Bronze Churn Customer category
+  customers in Bronze High Spent-Churn Best Customer category
+  customers in Bronze Low Spent-Churn Best Customer category
+  customers in High Spending-Loyal Customer category
+  customers in High Spending-Potential Loyalist category
+  customers in Low Spending-Loyal Customer category
+  customers in High Spending-New Customer category
+  customers in High Spending-Promising Customer category
+  customers in Low Spending-New Customer category
+  customers in Low Spending-Potential Loyalist category
+  customers in High Spent-Attention Seekers category
+  customers in High Spent-Likely to Churn category
+  customers in Low Spending Promising Customer category
+  customers in Low Spent-Attention Seeker category
+  customers in Low Spent-Likely to Churn category
+  customers in Churn Customer category
+  customers in High Spent-Churn Best Customer category
+  customers in Low Spent-Churn Best Customer category
+  customers by value
+  customers by sales
+  customers by sales by order
+  products
+  total products
+  products by order
+  products by sales
+  products by price
+  top 5 best selling products
+  top 10 best selling products
+  products by order by sales by price
+  products by price by order by sales
+  products by price by order 
+  products by price by sales
+  customers Platinum category
+  customers Gold category
+  customers Silver category
+  customers Bronze category
+  customers Platinum High Spending-Loyal Customer category
+  customers Platinum High Spending-Potential Loyalist category
+  customers Platinum Low Spending-Loyal Customer category
+  customers Gold High Spending-New Customer category
+  customers Gold High Spending-Promising Customer category
+  customers Gold Low Spending-New Customer category
+  customers Gold Low Spending-Potential Loyalist category
+  customers Silver High Spent-Attention Seekers category
+  customers Silver High Spent-Likely to Churn category
+  customers Silver Low Spending Promising Customer category
+  customers Silver Low Spent-Attention Seeker category
+  customers Silver Low Spent-Likely to Churn category
+  customers Bronze Churn Customer category
+  customers Bronze High Spent-Churn Best Customer category
+  customers Bronze Low Spent-Churn Best Customer category
+  customers High Spending-Loyal Customer category
+  customers High Spending-Potential Loyalist category
+  customers Low Spending-Loyal Customer category
+  customers High Spending-New Customer category
+  customers High Spending-Promising Customer category
+  customers Low Spending-New Customer category
+  customers Low Spending-Potential Loyalist category
+  customers High Spent-Attention Seekers category
+  customers High Spent-Likely to Churn category
+  customers Low Spending Promising Customer category
+  customers Low Spent-Attention Seeker category
+  customers Low Spent-Likely to Churn category
+  customers Churn Customer category
+  customers High Spent-Churn Best Customer category
+  customers Low Spent-Churn Best Customer category
+
+  

@@ -1,0 +1,14 @@
+pytest~=5.3.5
+
+ln2sql~=0.1
+pandas~=1.1.1
+psycopg2==2.8.6
+fastapi==0.61.1
+setuptools~=49.6.0
+word2number~=1.1
+numpy==1.19.3
+pydantic==1.6.1
+uvicorn==0.11.8
+loguru==0.5.1
+autocomplete~=0.0.104
+fast-autocomplete~=0.6.0

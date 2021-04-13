@@ -1,0 +1,19 @@
+AVG: average, avg, Average
+SUM: sum
+MAX: maximum, highest, max
+MIN: minimum, lowest, min
+COUNT: number, how many, count
+JUNCTION: and
+DISJUNCTION: or
+GREATER: greater, over, greater than, more than, over than, after
+LESS: less , less than, before
+BETWEEN: between, range, in between
+ORDER: order, ordered
+ASC: ascending, increasing
+DESC: descending, decreasing, inverse, reverse, opposite,
+GROUP: per, group, grouped, clubbed, by, each
+NEGATION: not, no
+EQUAL: is, equal, equals, equal to, equals to, are
+LIKE: like, likes, similar to
+DISTINCT: distinct, different, distinctive, distinctly, unique
+TOP: top, Top
